@@ -1,8 +1,6 @@
 def foo():
-  return
-
-
+    return
 
 
 def bar():
-  return
+    return
