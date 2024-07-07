@@ -4,3 +4,5 @@ def foo():
 
 def bar():
   return
+
+
